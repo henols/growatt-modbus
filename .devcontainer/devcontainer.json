@@ -1,6 +1,6 @@
 // See https://aka.ms/vscode-remote/devcontainer.json for format details.
 {
-	"dockerFile": "ghcr.io/ludeeus/devcontainer/integration:stable",
+	"image": "ghcr.io/ludeeus/devcontainer/integration:stable",
 	"name": "Growatt modbus integration development",
 	"context": "..",
 	"appPort": [
