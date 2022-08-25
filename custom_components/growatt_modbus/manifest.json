@@ -1,0 +1,11 @@
+{
+  "domain": "growatt_modbus",
+  "name": "Growatt modbus",
+  "documentation": "https://github.com/henols/growatt-modbus",
+  "issue_tracker": "https://github.com/henols/growatt-modbus/issues",
+  "version": "0.0.0",
+  "config_flow": true,
+  "codeowners": [
+    "@henols"
+  ]
+}

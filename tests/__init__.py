@@ -1,1 +1,1 @@
-"""Tests for integration_blueprint integration."""
+"""Tests for growatt_modbus integration."""
